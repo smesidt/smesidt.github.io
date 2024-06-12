@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://smesidt.github.io/sitemap/sitemap.txt
